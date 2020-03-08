@@ -1,12 +1,12 @@
-# UNQ » UIs » Web » Hello React
+# UNQ » UIs » Web » Login & Beers
 
 Construcción de Interfaces de Usuario, Universidad Nacional de Quilmes.
 
 ## Download
 
 ```sh
-git clone https://github.com/unq-ui/ej-web-hello-react.git
-cd ej-web-hello-react
+git clone https://github.com/unq-ui/ej-web-login-and-beers.git
+cd ej-web-login-and-beers
 npm install
 ```
 
